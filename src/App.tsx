@@ -16,7 +16,11 @@ function App() {
           <div className="flex flex-col justify-center items-center">
             {/* TITLE */}
 
-            <h1 className={`${styles.heading1}`}>Life is just seconds</h1>
+            <h1 className={`${styles.heading1}`}>
+              <a href="https://github.com/vanesascode" target="_blank">
+                Life is just seconds
+              </a>
+            </h1>
 
             {/* COUNTER */}
 
